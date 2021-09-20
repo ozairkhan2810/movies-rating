@@ -1,0 +1,11 @@
+* {
+  background-color: #efefef;
+}
+
+.App {
+  font-family: sans-serif;
+  margin: auto;
+  text-align: center;
+  max-width: 600px;
+  padding: 2rem;
+}
